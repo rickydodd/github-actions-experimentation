@@ -3,7 +3,7 @@ description: File a bug report.
 title: "[Bug]: "
 body:
   - type: markdown
-    attirbutes:
+    attributes:
       value: |
         Please be descriptive about your system and setup, as well as describe the bug as well as you can. Thank you for taking the time to fill out this bug report!
   - type: input
